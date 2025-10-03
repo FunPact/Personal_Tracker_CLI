@@ -24,7 +24,9 @@ This is a project for the **VibeCoding Challenge** organised by **BM Institute o
 ### Running the CLI tool
 - Clone or download the repository.
 - Open the folder in VSCode or your terminal.
+
 **Run the script using:** python personal_tracker.py
+
 - Follow the interactive menu to add, list, and update your tracked items.
 - Data is saved persistently in **personal_tracker.txt** in the script's directory.
 #### Notes
